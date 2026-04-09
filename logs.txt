@@ -1,8 +1,8 @@
-kim,login
-lee,login
-kim,logout
-park,login
-lee,logout
-kim,login
+김,login
+이,login
+김,logout
+박,login
+이,logout
+김,login
 invalid_line
-choi,login
+최,login
