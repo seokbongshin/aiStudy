@@ -1,0 +1,8 @@
+kim,login
+lee,login
+kim,logout
+park,login
+lee,logout
+kim,login
+invalid_line
+choi,login
